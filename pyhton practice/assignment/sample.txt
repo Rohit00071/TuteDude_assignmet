@@ -1,0 +1,3 @@
+Hello, this is my Python and Bash assignment.
+This file was created using Python file handling.
+The write() function is used to add content to the file.
